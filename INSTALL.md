@@ -1,17 +1,9 @@
-### [Foobar](https://foobar.com)
+### [Nextcloud](https://nextcloud.com/)
 
-#### Install using Git
+#### Install
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-    git clone https://github.com/dracula/foobar.git
-
-#### Install manually
-
-Download using the [GitHub .zip download](https://github.com/dracula/foobar/archive/master.zip) option and unzip them.
-
-#### Activating theme
-
-1. Do this
-2. Then that
-3. Boom! It's working
+<!-- Required for custom CSS -->
+1. Install the [Breeze Dark](https://apps.nextcloud.com/apps/breezedark) Nextcloud App
+2. Open the "Breeze Dark" section in the "Theming" settings (`Nextcloud Settings` -> `Administration`)
+3. Paste the contents of the [theme.css](theme.css) file into the `Custom styling` area
+4. Click save
