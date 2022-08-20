@@ -7,5 +7,9 @@
     --color-charcoal-gray: #282a36; /* Primary background */
     --color-shade-black: #44475a; /* Top banner + text field background */
     --color-border-grey: #bd93f9; /* Border */
-    --color-dashboard-grey: #282a36AB; /* Dashboard widget background */
+    --color-dashboard-grey: #282a36ab; /* Dashboard widget background */
+}
+
+#filestable tbody tr.externalErroredRow {
+    background-color: #ff5555ab; /* External Storage mounting errors */
 }
