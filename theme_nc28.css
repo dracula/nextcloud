@@ -1,0 +1,15 @@
+:root {
+    --color-hover-blue: #44475a; /* Cursor hover-over */
+    --color-plasma-blue: #bd93f9; /* Selected */
+    --color-cardboard-gray: #f8f8f2; /* Text */
+    --color-coastal-fog: #44475a; /* Loading animation */
+    --color-alternate-gray: #bdc3c7; /* Exterior loading animation, Files app sort by text + byte size + modified time, AND some random text elsewhere */
+    --color-charcoal-gray: #282a36; /* Primary background */
+    --color-shade-black: #44475a; /* Top banner + text field background */
+    --color-border-grey: #bd93f9; /* Border */
+    --color-dashboard-grey: #282a36ab; /* Dashboard widget background */
+}
+
+#filestable tbody tr.externalErroredRow {
+    background-color: #ff5555ab; /* External Storage mounting errors */
+}
