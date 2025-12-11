@@ -1,4 +1,5 @@
-:root {
+:root, [data-theme-dark] {
+    --color-main-text: #F8F8F2;
     --color-main-background: #282A36;
     --color-main-background-rgb: 40, 42, 54;
     --color-background-hover: #323440; /* main-background + 0x0A */
