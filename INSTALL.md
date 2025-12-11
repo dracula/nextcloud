@@ -7,6 +7,8 @@
 3. Set the Primary color to `#BD93F9` and the Background color to `#282A36`
 4. Paste the contents of the [theme.css](https://raw.githubusercontent.com/dracula/nextcloud/main/theme.css) file into the `Custom CSS` text area
 5. Click save
+6. Go to your Personal Settings > Appearance & Accessibility, and select "Dark theme"
+   - this is particularly important if your User Agent (aka Browser) prefers a light website color scheme
 
 ##### Nextcloud 28 or older
 <!-- Required for custom CSS -->
